@@ -1,0 +1,22 @@
+# Choose Your Own Adventure
+
+## Scene 1: The Beginning
+
+You find yourself at a crossroads in a mysterious forest. The path splits into two:
+
+- [Take the left path](#scene-2-left-path)
+- [Take the right path](#scene-3-right-path)
+
+---
+
+## Scene 2: Left Path
+
+_(Describe what happens if the player takes the left path, and add new options here)_
+
+---
+
+## Scene 3: Right Path
+
+_(Describe what happens if the player takes the right path, and add new options here)_
+
+//add first scene
